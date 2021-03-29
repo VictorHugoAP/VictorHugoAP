@@ -14,8 +14,8 @@ Contatos:
 <br>
 📖Atualmente estudando Lógica de Programação aplicada na Linguagem C, e também estudando Front-End.
 <br>
-**Atualmente Estudando estudando:**
 
+**Atualmente Estudando estudando:**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Typescript" width="40" height="40" />&nbsp;
