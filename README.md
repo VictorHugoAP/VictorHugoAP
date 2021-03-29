@@ -12,7 +12,7 @@ Contatos:
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> &nbsp;-> VictorHugoAP02@gmail.com 
 
 <br>
-📖Atualmente estudando Lógica de Programação aplicada na Linguagem C, e também estudando Front-End.
+📖Atualmente estudando Lógica de Programação aplicada na Linguagem C, e também estudando Front-End.<br>
 <br>
 
 **Atualmente Estudando estudando:**
