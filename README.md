@@ -1,4 +1,4 @@
-### Olá, Sou Victor Hugo e Seja bem-vindo ao meu perfil🇧🇷
+### Olá, Sou Victor Hugo e Seja bem-vindo ao meu perfil
 
 
 Contatos:
