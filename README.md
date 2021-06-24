@@ -9,7 +9,7 @@ Contatos:
 <a href="https://www.youtube.com/channel/UCUD5Pg-XVrqS1I7dXHjdRcg">
  <img align="left" alt="yt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a> 
 
-<br>
+<br><br>
 📖Atualmente estudando Lógica de Programação aplicada na Linguagem C, e também estudando Front-End.<br>
 <br>
 
