@@ -18,7 +18,6 @@ Contatos:
 <img src="https://pngimage.net/wp-content/uploads/2019/05/html5-icon-png-white-.png" width="60 height="60">&nbsp;
 <img src="https://w7.pngwing.com/pngs/1008/538/png-transparent-web-development-html-cascading-style-sheets-css3-world-wide-web-angle-web-design-logo.png" alt="ReactJS" width="60 height="60">&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="ReactJS" width="60 height="60">&nbsp;
-  <img src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_512.png" alt="ReactJS" width="60 height="60">&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="ReactJS" width="60 height="60">&nbsp;
   
   
